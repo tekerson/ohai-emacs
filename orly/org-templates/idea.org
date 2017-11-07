@@ -1,0 +1,7 @@
+* TODO %^{Title}
+  :PROPERTIES:
+  :CREATED: %U
+  :END:
+  %?
+
+** Inspiration

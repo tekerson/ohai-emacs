@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: js.emptyjsdoccomment
+# key: /**
+# --
+/**
+ * $0
+ */

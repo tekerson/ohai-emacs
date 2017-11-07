@@ -1,0 +1,4 @@
+* UNREAD %(org-cliplink-capture)
+  :PROPERTIES:
+  :CREATED: %U
+  :END:

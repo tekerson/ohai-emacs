@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Console Log (expression)
+# key: log
+# --
+console.log($1)
